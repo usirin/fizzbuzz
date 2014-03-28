@@ -1,0 +1,17 @@
+{
+  "name": "fizzbuzz",
+  "version": "0.0.1",
+  "description": "fizzbuzz in coffee",
+  "main": "fizzbuzz.coffee",
+  "scripts": {
+    "test": "jasmine-node fizzbuzz.spec.coffee"
+  },
+  "keywords": [
+    "fizzbuzz"
+  ],
+  "author": "Umut Sirin",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node": "~1.14.2"
+  }
+}
