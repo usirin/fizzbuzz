@@ -1,5 +1,5 @@
 {
-  "name": "fizzbuzz",
+  "name": "another-fizzbuzz",
   "version": "0.0.1",
   "description": "Basic fizzbuzz function",
   "main": "lib/fizzbuzz.js",
