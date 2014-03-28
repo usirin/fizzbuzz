@@ -1,4 +1,4 @@
-fizzbuzz = require "./fizzbuzz"
+fizzbuzz = require "../src/fizzbuzz"
 
 describe "fizzbuzz", ->
   it "replaces items that power of 3 with `fizz`", ->
