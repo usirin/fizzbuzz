@@ -1,8 +1,8 @@
 {
   "name": "fizzbuzz",
   "version": "0.0.1",
-  "description": "fizzbuzz in coffee",
-  "main": "fizzbuzz.coffee",
+  "description": "Basic fizzbuzz function",
+  "main": "lib/fizzbuzz.js",
   "scripts": {
     "test": "jasmine-node fizzbuzz.spec.coffee"
   },
@@ -15,5 +15,14 @@
     "jasmine-node": "~1.14.2",
     "grunt": "~0.4.4",
     "grunt-contrib-coffee": "~0.10.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usirin/fizzbuzz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/usirin/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/usirin/fizzbuzz"
 }
