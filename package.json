@@ -12,6 +12,8 @@
   "author": "Umut Sirin",
   "license": "MIT",
   "devDependencies": {
-    "jasmine-node": "~1.14.2"
+    "jasmine-node": "~1.14.2",
+    "grunt": "~0.4.4",
+    "grunt-contrib-coffee": "~0.10.1"
   }
 }
